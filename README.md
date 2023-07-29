@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anouar Aloui</h1>
 <h3 align="center">A passionate beginner developer from Tunisia.</h3>
 
-- 🌱 I’m currently learning **about Web development.**
+- 🌱 I’m currently learning **about Web development.**- 
+- 💬 Ask me about **ReactJs, NodeJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
