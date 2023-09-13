@@ -2,7 +2,7 @@
 <h3 align="center">A passionate beginner developer from Tunisia.</h3>
 
 - 🌱 I’m currently learning **about Web development.**- 
-- 💬 Ask me about **ReactJs, NodeJs**
+- 💬 Ask me about **ReactJs, NodeJs, ExpressJs, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
