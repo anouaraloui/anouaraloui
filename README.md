@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **about Web development.**- 
 - 💬 Ask me about **ReactJs, NodeJs, ExpressJs, MongoDB**
+- 📫 How to reach me **aloui.anouar@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
